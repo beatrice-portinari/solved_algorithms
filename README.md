@@ -1,2 +1,1 @@
-# solved_algorithms
-Solutions of basic algorithms presented in Python
+# Python solutions of essential algorithms
